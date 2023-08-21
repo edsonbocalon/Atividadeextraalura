@@ -1,10 +1,9 @@
 body{
-    background-color:#CCCCCC;
+    background:#CCCCCC;
 }
 
 h1 {
-    text-align: center;
-    background-color #DC143C;
+    text-align: center
 }
 
 p {
