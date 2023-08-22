@@ -3,9 +3,12 @@ body{
 }
 
 #banner {
-    width: 100%;
+    width: 100%
 }
 
+img {
+    text-align: center;
+}
 
 h1 {
     text-align: center
@@ -40,5 +43,5 @@ h3 {
 }
 
 .imagem.foto {
-    width: 50%;
+       width: 20px
 }
