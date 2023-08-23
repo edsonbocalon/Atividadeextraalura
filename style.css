@@ -3,23 +3,22 @@ body{
 }
 
 #banner {
-    width: 100%
+    width: 75%;
+    padding-left: 175px;
 }
 
-img {
-    text-align: center;
-}
-
-h1 {
-    text-align: center
+.título-principal{
+    padding-left: 20px;
 }
 
 p {
-    text-align: center
+    text-align: center;
+    padding: 5px;
 }
 
 #Proporcionar {
-    font-size:16px
+    font-size:16px;
+    padding: 20px;
 }
 
 i b {
@@ -34,14 +33,18 @@ i b {
     background: #CCCCCC;
 }
 
-h2 {
-    text-align: center
+.título-centralizado{
+    text-align: center;
 }
 
-h3 {
-    text-align: center
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
-.imagem.foto {
-       width: 20px
+.imagem {
+       width: 40%
 }
