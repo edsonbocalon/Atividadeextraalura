@@ -46,5 +46,10 @@ ul {
 }
 
 .imagem {
-       width: 40%
+    width: 20%;
+    padding-left: 20px;
+}
+
+.foto {
+    width: 20%;
 }
