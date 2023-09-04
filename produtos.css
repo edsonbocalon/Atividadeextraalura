@@ -56,11 +56,11 @@ nav a:hover {
 }
 
 .produtos li:active {
-    border-color: #006400;
+    border-color: #00FF00;
 }
 
 .produtos li:hover h2 {
-    font-size: 40px;
+    font-size: 34px;
 }
 
 .produtos h2 {
@@ -76,4 +76,16 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url("imagens/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 12px;
+    margin: 20px 0 0;
 }
