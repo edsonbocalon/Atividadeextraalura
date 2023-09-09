@@ -184,10 +184,70 @@ td, th {
     margin: 0 20px 20px 0;
 }
 
-.imagem {
-    width: 40%;
+.mapa {
+    padding: 3em 0;
 }
 
-.foto {
+.mapa {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.publico {
+    padding: 1em 0;
+}
+
+.conteudo-publico {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-publico {
+    width: 40%; 
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 1.5;
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+.imagem-publico {
+    width: 50%;
+}
+
+.beneficios {
+    padding: 1em 0;
+}
+
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
     width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 1.5;
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+.foto-beneficios {
+    width: 50%;
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
 }
